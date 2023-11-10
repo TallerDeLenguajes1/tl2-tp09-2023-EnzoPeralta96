@@ -1,4 +1,4 @@
-namespace Models;
+namespace Models.Tablero;
 public class Tablero
 {
     public int Id{get;set;}
